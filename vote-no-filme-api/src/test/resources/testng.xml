@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="VoteNoFilme Test Suite">
+  <test name="unitTests">
+  	<classes>
+  		<class name="br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest"></class>
+  		<class name="br.com.ioguisoftware.vnf.model.dao.impl.FilmeDAOImplTest"></class>
+  	</classes>
+  </test>
+</suite>

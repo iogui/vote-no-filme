@@ -4,13 +4,20 @@
 		 
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>br.com.ioguisoftware.bluesoft</groupId>
+		<groupId>br.com.ioguisoftware.tp</groupId>
 		<artifactId>vote-no-filme</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>vote-no-filme-model</artifactId>
 	<name>Model Vote no Filme</name>
-	<description>Modelo de dados da aplicacao Vote no Filme do desafio BlueSoft</description>
+	<description>Modelo de dados da aplicacao Vote no Filme do desafio Empresa x (test project - tp)</description>
 	
+	<dependencies>
+		<dependency>
+		    <groupId>org.hibernate.javax.persistence</groupId>
+		    <artifactId>hibernate-jpa-2.1-api</artifactId>
+		    <version>1.0.0.Final</version>
+		</dependency>
+	</dependencies>
 	
 </project>

@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	font-family: arial, verdana, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	background-color: #F0F0F0;
+}
+
+h1{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+tr, td {
+	border: 1px solid #606060;
+}
+
+#divContainer {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	background-color: #FFFFFF;
+	border: 1px solid #000066;
+	min-height: 500px;
+}
+
+
+#divEnquete table {
+	margin: 0 auto;
+}

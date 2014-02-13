@@ -4,18 +4,18 @@
 		 
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>br.com.ioguisoftware.bluesoft</groupId>
+		<groupId>br.com.ioguisoftware.tp</groupId>
 		<artifactId>vote-no-filme</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>vote-no-filme-web</artifactId>
 	<packaging>war</packaging>
 	<name>Vote no Filme Web</name>
-	<description>Aplicacao web do projeto Vote no Filme do desafio BlueSoft</description>
+	<description>Aplicacao web do projeto Vote no Filme do desafio Empresa x (test project - tp)</description>
 	
 	<dependencies>
 		<dependency>
-			<groupId>br.com.ioguisoftware.bluesoft</groupId>
+			<groupId>br.com.ioguisoftware.tp</groupId>
 			<artifactId>vote-no-filme-api</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<type>jar</type>

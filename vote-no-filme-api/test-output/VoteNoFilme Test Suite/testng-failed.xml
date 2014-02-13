@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [VoteNoFilme Test Suite]">
+  <test name="unitTests(failed)">
+    <classes>
+      <class name="br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest">
+        <methods>
+          <include name="getRandomEnqueteFilmes"/>
+          <include name="injectDao"/>
+        </methods>
+      </class> <!-- br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest -->
+    </classes>
+  </test> <!-- unitTests(failed) -->
+</suite> <!-- Failed suite [VoteNoFilme Test Suite] -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VoteNoFilme Test Suite" duration-ms="13017" started-at="2014-02-12T21:52:47Z" finished-at="2014-02-12T21:53:00Z">
+    <groups>
+    </groups>
+    <test name="unitTests" duration-ms="13017" started-at="2014-02-12T21:52:47Z" finished-at="2014-02-12T21:53:00Z">
+      <class name="br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest">
+        <test-method status="PASS" signature="injectDao()[pri:0, instance:br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest@1776b55]" name="injectDao" is-config="true" duration-ms="267" started-at="2014-02-12T19:52:47Z" finished-at="2014-02-12T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- injectDao -->
+        <test-method status="PASS" signature="generateFilmes()[pri:0, instance:br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest@1776b55]" name="generateFilmes" duration-ms="39" started-at="2014-02-12T19:52:47Z" finished-at="2014-02-12T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateFilmes -->
+        <test-method status="PASS" signature="injectDao()[pri:0, instance:br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest@1776b55]" name="injectDao" is-config="true" duration-ms="6" started-at="2014-02-12T19:52:47Z" finished-at="2014-02-12T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- injectDao -->
+        <test-method status="PASS" signature="getRandomEnqueteFilmes()[pri:0, instance:br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest@1776b55]" name="getRandomEnqueteFilmes" duration-ms="12687" started-at="2014-02-12T19:52:47Z" finished-at="2014-02-12T19:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRandomEnqueteFilmes -->
+      </class> <!-- br.com.ioguisoftware.vnf.model.service.impl.FilmeServiceImplTest -->
+    </test> <!-- unitTests -->
+  </suite> <!-- VoteNoFilme Test Suite -->
+</testng-results>
